@@ -9,11 +9,6 @@
   },
   "author": "KraXen72",
   "permissions": ["storage"],
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "glide@kraxen72.com"
-    }
-  },
   "chrome_url_overrides": {
     "newtab": "./index.html"
   }

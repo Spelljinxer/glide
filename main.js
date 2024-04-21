@@ -25,7 +25,7 @@ let containerObj = {
 		col1Title: 'links',
 		col2Title: 'social',
 		col3Title: 'other',
-		imgPath: 'background.png', //image path
+		imgPath: 'cat.png', //image path
 		cycleExtraImg: false,
 		imgGallery: ""
 	}
